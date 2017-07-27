@@ -1,0 +1,6 @@
+{
+	"id": "1",
+	"gid": "1",
+	"members": ["user1","user2"],
+	"platform": "ubuntu"
+}

@@ -1,0 +1,6 @@
+{
+	"id": "chef",
+	"gid": "42",
+	"members": ["santy", "banty", "danty"],
+	"platform": "ubuntu"
+}
