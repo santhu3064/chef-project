@@ -1,4 +1,4 @@
 # chef-repo
 
-TODO: Enter the cookbook description here. #HEKKKK
+TODO: Enter the cookbook description here. #HEKK
 
